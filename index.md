@@ -1,3 +1,7 @@
 # welcome to my markdown file
 ![Beautiful mountain](https://example.com/mountain.jpg)
-To print in python, use the 'print' function
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Namrata")
